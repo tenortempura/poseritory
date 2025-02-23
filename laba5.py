@@ -1,5 +1,4 @@
 import math
-i=0
 b=[]
 a= list(range(0,1000000))
 for i in range(len(a)):
